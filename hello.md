@@ -1,4 +1,4 @@
-# Proyecto Git - Cambios en conflicto-prueba
+# Proyecto Git - Version integrada
 Hola, mi nombre es Neo.
 Estoy aprendiendo a utilizar Git y GitHub en la materia de Programación Web.
 Este es mi primer repositorio local.
