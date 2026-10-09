@@ -1,0 +1,6 @@
+PAGINA PRINCIPAL
+
+Este archivo representa la pagina de inicio.
+
+Fue desarrollado directamente en la
+rama principal del proyecto.
