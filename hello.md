@@ -1,4 +1,4 @@
-# Mi primer proyecto con Git
+# Proyecto Git - Cambios en main
 
 Hola, mi nombre es Neo.
 Estoy aprendiendo a utilizar Git y GitHub en la materia de Programación Web.
